@@ -123,6 +123,17 @@
 ![20230115_165422_1](https://user-images.githubusercontent.com/38197185/212529248-49b28065-0f60-49b7-8fdc-6c9b413ac8c0.png)
 
 
+1. pub/sub
+![20230115_165422_2](https://user-images.githubusercontent.com/38197185/212529282-92d62032-95f7-4093-bf5a-4eb6250c821c.png)
+
+2. cqrl
+![20230115_165422_3](https://user-images.githubusercontent.com/38197185/212529286-9f1badd1-5382-47d3-941a-34b5ce013a7c.png)
+![20230115_165422_4](https://user-images.githubusercontent.com/38197185/212529288-74ddfa22-d998-4ece-9acf-a7f80bf11256.png)
+
+3. Compensation /Correlation
+![20230115_165422_5](https://user-images.githubusercontent.com/38197185/212529304-921b4ba2-d79a-41af-98ad-e08813df90fc.png)
+
+
 
 ### 이벤트 도출
 ![image](https://user-images.githubusercontent.com/487999/79683604-47bc0180-8266-11ea-9212-7e88c9bf9911.png)
