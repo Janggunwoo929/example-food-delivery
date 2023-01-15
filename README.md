@@ -120,7 +120,8 @@
 
 
 ## Event Storming 결과
-* MSAEz 로 모델링한 이벤트스토밍 결과:  http://msaez.io/#/storming/nZJ2QhwVc4NlVJPbtTkZ8x9jclF2/every/a77281d704710b0c2e6a823b6e6d973a/-M5AV2z--su_i4BfQfeF
+![20230115_165422_1](https://user-images.githubusercontent.com/38197185/212529248-49b28065-0f60-49b7-8fdc-6c9b413ac8c0.png)
+
 
 
 ### 이벤트 도출
